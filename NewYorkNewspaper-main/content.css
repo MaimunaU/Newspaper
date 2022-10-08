@@ -1,0 +1,51 @@
+.page {
+  width: 450px;
+  height: 750px;
+  background-color: rgb(211, 208, 203);
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#article_title {
+  font-family: Anton;
+  font-size: 40px;
+  letter-spacing: 5px;
+  color: rgb(70, 18, 32);
+  padding-top: 35px;
+}
+
+#intro {
+  font-family: Oswald;
+  font-size: 20px;
+  line-height: 50px;
+  color: rgb(140, 47, 57);
+}
+
+.question{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  color: rgb(76, 87, 96);
+}
+
+.answer{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 17px;
+  color: rgb(76, 87, 96);
+  margin-top: -30px;
+}
+
+#block_quote {
+  font-family: Oswald;
+  font-size: 25px;
+  color: rgb(140, 47, 57);
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: -15px;
+  margin-top: -15px;
+  padding-left: 5px;
+  padding-right: 30px;
+  border-left: 2px solid gray;
+  height: 80px;
+
+}

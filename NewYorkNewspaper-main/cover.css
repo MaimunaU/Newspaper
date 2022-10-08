@@ -1,0 +1,29 @@
+.cover {
+  width: 350px;
+  height: 500px;
+  background-color: gray;
+  padding: 16px;
+  margin: 16px;
+}
+
+#title {
+  text-align: center;
+  font-size: 60px;
+  font-family: Source Code Pro, medium;
+}
+
+#subtitle {
+  color:aqua;
+  text-align: right;
+  font-size: 15px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  opacity: 0.4;
+  margin-top: -30px;
+  padding-right: 30px;
+}
+
+#cover_image {
+  height: 150px;
+  width: 280px;
+  margin: 30px;
+}
